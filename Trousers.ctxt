@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trousers
+comment1.params=
+comment1.target=Trousers()
+comment2.params=brand\ size\ color\ made_in
+comment2.target=Trousers(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=brand\ code\ size\ color\ made_in\ price
+comment3.target=Trousers(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment4.params=brand\ size\ color\ price
+comment4.target=Trousers(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+numComments=5

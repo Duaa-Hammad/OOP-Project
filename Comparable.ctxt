@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Comparable
+comment1.params=code\ code1\ list
+comment1.target=boolean\ price_compare(int,\ int,\ java.util.ArrayList)
+numComments=2

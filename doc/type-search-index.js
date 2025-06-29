@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Belt"},{"p":"<Unnamed>","l":"Clothes"},{"p":"<Unnamed>","l":"Comparable"},{"p":"<Unnamed>","l":"Dress"},{"p":"<Unnamed>","l":"Jacket"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Shirt"},{"p":"<Unnamed>","l":"Skirt"},{"p":"<Unnamed>","l":"Suit"},{"p":"<Unnamed>","l":"Trousers"}]

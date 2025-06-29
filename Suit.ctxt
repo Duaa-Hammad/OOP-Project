@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Suit
+comment1.params=
+comment1.target=Suit()
+comment10.params=jacket
+comment10.target=void\ setJacket(Jacket)
+comment11.params=object
+comment11.target=boolean\ equals(Suit)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=trouser\ belt\ shirt\ jacket\ price\ Code
+comment2.target=Suit(Trousers,\ Belt,\ Shirt,\ Jacket,\ double,\ int)
+comment3.params=
+comment3.target=Trousers\ getTrouser()
+comment4.params=
+comment4.target=Belt\ getBelt()
+comment5.params=
+comment5.target=Shirt\ getShirt()
+comment6.params=
+comment6.target=Jacket\ getJacket()
+comment7.params=trouser
+comment7.target=void\ setTrouser(Trousers)
+comment8.params=belt
+comment8.target=void\ setBelt(Belt)
+comment9.params=shirt
+comment9.target=void\ setShirt(Shirt)
+numComments=13
