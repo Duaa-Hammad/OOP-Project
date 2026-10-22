@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+
+# BlueJ context files
+*.ctxt
+
+# BlueJ automatic backup folder
+backup/
+
+# Archives and logs
+*.jar
+*.log
